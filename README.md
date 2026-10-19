@@ -2,9 +2,9 @@
 
 **Member of Technical Staff at Adobe | IIT Bombay, Class of 2025**
 
-I build cross-platform software and developer tools for Creative Cloud Desktop. Alongside product engineering, I collaborate on research in human-AI interaction, multimodal evaluation, and model calibration.
-
 **[Personal website](https://ishan121028.github.io/)** | **[Resume (PDF)](https://ishan121028.github.io/assets/ishan-upadhyay-resume.pdf)** | [LinkedIn](https://www.linkedin.com/in/ishan-upadhyay) | [Email](mailto:ishan.upadhyay.iitb@gmail.com)
+
+I build cross-platform software and developer tools for Creative Cloud Desktop. Alongside product engineering, I collaborate on research in human-AI interaction, multimodal evaluation, and model calibration.
 
 ## Engineering
 
